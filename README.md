@@ -9,7 +9,8 @@
 ## tasks : 
     1) Create a react application
 
-    2) Create a form component that contains a form. The user can add Their favorite bands name, greatest hits, genre and an image url. Save them in the App.js local state. 
+    2) Create a form component that contains a form. The user can add Their favorite
+    bands name, greatest hits, genre and an image url. Save them in the App.js local state. 
  When the user sumbits the form update your bands state and add the new band. At this point you can also clear your inputs state
 
 ![form](./mockups/form.png)
