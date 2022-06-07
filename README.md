@@ -27,7 +27,7 @@
  ![navigation](./mockups/nav.png)
 
 
-   5. after the user submits the form display the bands components with the new band included
+   5. after the user submits the form display the Bands.js components with the new band included
 
 
 
