@@ -17,17 +17,17 @@
 
 
 
-   3. Create a Bands.js component that receives all the bands as props and displays them
+   3. Create a Bands.js component that receives all the bands as props and displays them.
 
 ![bands component](./mockups/bands.png)
 
    4. Create a Header.js component. Make a navigation with 2 buttons bands and form.
-    Depents on what the user clicks display the Form or the Bands Component
+    Depents on what the user clicks display the Form or the Bands Component.
 
  ![navigation](./mockups/nav.png)
 
 
-   5. after the user submits the form display the Bands.js components with the new band included
+   5. after the user submits the form display the Bands.js components with the new band included.
 
 
 
