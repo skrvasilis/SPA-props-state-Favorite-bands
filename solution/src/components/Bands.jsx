@@ -5,7 +5,6 @@ export default class Bands extends Component {
     //     super(props);
     //   }
   render() {
-    // style="width: 18rem;"
     return (
       <div className='d-flex p-2 justify-content-evenly flex-wrap'>
           {this.props.bands.map((item,i)=> {

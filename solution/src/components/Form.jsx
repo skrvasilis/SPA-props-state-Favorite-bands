@@ -15,7 +15,7 @@ export default class Form extends Component {
               type="text"
               className="form-control"
               name="name"
-              placeholder="Name"
+              placeholder="Band Name"
               onChange={this.props.handleInputs}
             />
           </div>
